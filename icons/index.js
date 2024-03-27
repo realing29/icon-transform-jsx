@@ -1,0 +1,7 @@
+export * from './DummyIcon.jsx'
+export * from './ExponentIcon.jsx'
+export * from './HilightFashionStoreStrongIcon.jsx'
+export * from './M2Icon.jsx'
+export * from './PeoplesIcon.jsx'
+export * from './PercentIcon.jsx'
+export * from './ProgramIcon.jsx'
